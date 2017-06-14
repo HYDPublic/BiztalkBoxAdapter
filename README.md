@@ -1,0 +1,2 @@
+# BiztalkBoxAdapter
+Test box sdk
